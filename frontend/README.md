@@ -1,11 +1,5 @@
+# Invictus Frontend
 
-  # Untitled
+This is the React frontend application for the Invictus forensic analysis dashboard. It uses React + Vite + Tailwind CSS v4.
 
-  This is a code bundle for Untitled. The original project is available at https://www.figma.com/design/UYnWaHLdQXmUHPQTr5J1b5/Untitled.
-
-  ## Running the code
-
-  Run `npm i` to install the dependencies.
-
-  Run `npm run dev` to start the development server.
-  
+For installation and setup instructions, please refer to the main [README.md](../README.md) at the root of this repository.
