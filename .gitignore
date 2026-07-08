@@ -1,0 +1,36 @@
+# Dependency directories
+node_modules/
+frontend/node_modules/
+
+# Environments
+.venv/
+venv/
+env/
+*.env
+backend/API.env
+
+# IDEs and editors
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# Compilation/build outputs
+dist/
+build/
+.next/
+.out/
+.vite/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.eslintcache
