@@ -516,6 +516,6 @@ This project is licensed under the **MIT License**.
 
 **Built with ❤️ for forensic investigators everywhere.**
 
-*FORENSYNC — Where AI meets justice.*
+*FORENSYNC — Where AI meets Justice.*
 
 </div>
