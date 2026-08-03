@@ -15,7 +15,9 @@
 | Member | GitHub | Role |
 |--------|--------|------|
 | **Rounith Rathesh** | [@rounithrathesh-coder](https://github.com/rounithrathesh-coder) | Project Lead & Developer |
-| **Prithvin Jothinathan** | [@prithvinjothinathan](https://github.com/prithvinjothinathan) | Contributor |
+| **Prithvin Jothinathan** | [@Prithvin-j](https://github.com/Prithvin-j) | Collaborator |
+| **Gayathri Sathishkumar** | [@gayathrisathishkumarr](https://github.com/gayathrisathishkumarr) | Collaborator |
+| **Rithvika B** | [@rithvikab2025cse-rgb](https://github.com/rithvikab2025cse-rgb) | Collaborator |
 
 - **Team Name:** ForenSyncAI
 - **Repository:** [ForenSyncAI](https://github.com/rounithrathesh-coder/ForenSyncAI)
