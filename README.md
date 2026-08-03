@@ -10,13 +10,15 @@
 
 ---
 
-## 👥 Team Details
+## 👥 Team & Contributors
 
-| Role | Name |
-|------|------|
-| Team Name | **ForenSyncAI** |
-| GitHub | [@rounithrathesh-coder](https://github.com/rounithrathesh-coder) |
-| Repository | [ForenSyncAI](https://github.com/rounithrathesh-coder/ForenSyncAI) |
+| Member | GitHub | Role |
+|--------|--------|------|
+| **Rounith Rathesh** | [@rounithrathesh-coder](https://github.com/rounithrathesh-coder) | Project Lead & Developer |
+| **Prithvin Jothinathan** | [@prithvinjothinathan](https://github.com/prithvinjothinathan) | Contributor |
+
+- **Team Name:** ForenSyncAI
+- **Repository:** [ForenSyncAI](https://github.com/rounithrathesh-coder/ForenSyncAI)
 
 ---
 
