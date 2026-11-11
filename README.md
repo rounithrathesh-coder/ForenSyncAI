@@ -10,6 +10,12 @@
 
 ---
 
+## 📖 About ForenSyncAI
+
+**ForenSyncAI** is an AI-powered forensic investigation dashboard engineered to transform raw, unstructured autopsy reports and crime scene documentation into actionable, structured intelligence. By combining automated PDF parsing, high-capacity LLM data extraction, and interactive visual analytics, ForenSyncAI equips forensic pathologists, investigators, and medical examiners with automated evidence cross-correlation, trauma mapping, and instant inconsistency detection—compressing complex manual analysis cycles from days to minutes.
+
+---
+
 ## 👥 Team & Contributors
 
 | Member | GitHub | Role |
